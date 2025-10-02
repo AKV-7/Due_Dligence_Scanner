@@ -1,0 +1,8 @@
+numpy
+pdf2image
+opencv-python
+Jinja2
+weasyprint
+python-dotenv
+openai
+gradio-client
