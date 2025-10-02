@@ -72,8 +72,8 @@ An intelligent automation platform that transforms technology due diligence from
 ### 1. Installation
 
 ```bash
-git clone https://github.com/your-username/ai-due-diligence-scanner.git
-cd ai-due-diligence-scanner
+git clone https://github.com/AKV-7/Due_Dligence_Scanner.git
+cd Due_Dligence_Scanner
 pip install -r requirements.txt
 ```
 
@@ -132,4 +132,18 @@ print(f"Risk Assessment: {result}")
 - **Compliance Auditing**: Automated regulatory compliance checking
 - **Portfolio Management**: Ongoing risk monitoring for existing investments
 
- 
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📞 Contact
+
+For enterprise inquiries or technical support, please reach out through our [contact form](mailto:contact@yourcompany.com).
+
+---
+
+*Transforming due diligence through intelligent automation* 🤖✨
