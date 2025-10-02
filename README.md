@@ -132,18 +132,5 @@ print(f"Risk Assessment: {result}")
 - **Compliance Auditing**: Automated regulatory compliance checking
 - **Portfolio Management**: Ongoing risk monitoring for existing investments
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-For enterprise inquiries or technical support, please reach out through our [contact form](mailto:contact@yourcompany.com).
-
----
-
+ 
 *Transforming due diligence through intelligent automation* 🤖✨
